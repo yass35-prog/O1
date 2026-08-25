@@ -3,8 +3,15 @@
     margin: 0;
 }
 
+html{
+
+    background-color: aquamarine;
+    padding: 30px;
+}
+
 h1{
+
     color: cadetblue;
-    font-size: 16px;
-    
+    font-size: 16rem;
+
 }
